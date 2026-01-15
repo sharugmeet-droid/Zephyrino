@@ -1,0 +1,7 @@
+{
+  "name": "Zeroxin.io",
+  "description": "A premium AI-powered hairstyle visualizer that analyzes your face shape and applies realistic hair transformations using advanced generative AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
